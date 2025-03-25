@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+header {
+  width: 100%;
+  padding: 0 0.25em;
+  background-color: rgb(236, 114, 8);
+  color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1{
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
